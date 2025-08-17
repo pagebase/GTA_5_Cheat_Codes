@@ -10,6 +10,7 @@
 - **Explosive Melee Attacks** → `HOTHANDS`  
 - **Explosive Bullets** → `HIGHEX`  
 - **Drunk Mode (Affects Movement)** → `LIQUOR`  
+- **Fire bullets:** `INCENDIARY`
 
 ### **Vehicle & Spawn Cheats**  
 - **Spawn BMX Bike** → `BANDIT`  
