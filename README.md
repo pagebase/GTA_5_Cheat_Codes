@@ -9,8 +9,7 @@
 1. **Get All Weapons** → `TOOLUP`  
 2. **Explosive Melee Attacks** → `HOTHANDS`  
 3. **Explosive Bullets** → `HIGHEX`  
-4. **No Reload** → `FULLCLIP`  
-5. **Drunk Mode (Affects Movement)** → `LIQUOR`  
+4. **Drunk Mode (Affects Movement)** → `LIQUOR`  
 
 ### **Vehicle & Spawn Cheats**  
 1. **Spawn BMX Bike** → `BANDIT`  
