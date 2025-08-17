@@ -1,3 +1,9 @@
+# Table of contents
+
+- [Vehicles](#)
+
+---
+
 ### **Basic Cheat Codes (Enable by Typing In-Game)**  
 - **Health & Armor** (You're immortal for 5 minutes) → `PAINKILLER`  
 - **Max Health & Armor** → `TURTLE`  
